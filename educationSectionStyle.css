@@ -1,0 +1,53 @@
+
+
+.educationSection {
+    margin: auto;
+    max-width: 85%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    scroll-snap-align: start;
+}
+
+.educationSectionContainer {
+    background-color: #59ADFF;  
+    height: 80vh;
+}
+
+.educationSectionDiv {
+    margin: 25px;
+}
+
+.educationSectionContainer h1 {
+    color: #BDBDBD;
+    font-weight: 700;
+    font-size: 100px;
+}
+
+.memorialInfo {
+    margin: 7.5px;
+    margin-top: 30px;
+}
+.memorialInfo h3{
+    font-weight: 700;
+    font-size: 40px;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+.memorialInfo h5{
+    margin: 0;
+    padding: 0;
+    font-size: 30px;
+    color: white;
+    margin-bottom: 25px;
+}
+
+.memorialInfo p {
+    font-size: 20px;
+    padding: 0;
+    margin: 0;
+}
+
+

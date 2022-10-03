@@ -1,0 +1,16 @@
+.memorialLogo {
+    height: auto;
+    width: 250px;
+}
+
+.memorialLogoDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.jisLogoDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

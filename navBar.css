@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500;700&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+body {
+    scroll-snap-type: y mandatory;
+}
+
+.mainNavBar {
+    background-color: #E5E5E5;
+    height: 10vh;
+}
+
+.navBarContainer {
+    background-color: #E5E5E5;
+    width: 92.5%;
+}
+
+.navBarList {
+    background: none;
+}
+
+.navBarList li, a {
+    background: none;
+}
+
+
+.navBarBrand img {
+    background: none;
+}
+
+.navBarContactButton {
+    border-radius: 35px;
+}
+
+.navbar-nav {
+    background: none;
+}
+
+
+
+.introductionSection {
+    max-width: 85%;
+    height: 90vh;
+    margin: auto;
+
+}
+
+.introductionSection .introductionSectionContainer .row .columnTwo h1{
+    color:#59ADFF;
+    font-size: 50px;
+    font-weight: 700;
+    padding: 0;
+    margin: 0;
+}
+
+.introductionSection .introductionSectionContainer .row .columnTwo h5{
+    color:#363636;
+    font-size: 17.5px;
+    font-weight: 500;
+    margin-bottom: 25px;
+}
+
+.introductionSection .introductionSectionContainer .row .columnTwo p{
+    color:#808080;
+
+    
+}
+
+
+.listDiv {
+    display: flex;
+}
+.introductionSectionRow {
+    height: 90vh;
+}
+
+.introductionSectionRow div {
+    background: none;
+}
+.introductionSectionRow .col h1 div{
+    background: none;
+}
+
+.introductionSectionRow .columnTwo {
+    margin: auto;
+
+}
+.introductionSectionRow .columnOne {
+    margin: auto;
+}
+
+.memorialSubSection h1, h2, h3, h4, h5, p, span{
+    background: none;
+
+}
+
+
+.introductionIcon {
+    color: #59ADFF;
+    width: 25px;
+    height: auto;
+}
+
